@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pragyanand Singh, an enthusiastic programmer, developer and learner.
 - 👀 I’m interested in programming and web develpoment.
-- 🌱 I’m currently learning web development and c++
 - 💞️ I’m looking to collaborate on more web development projects.
 - 📫 contact - 8960216277
 

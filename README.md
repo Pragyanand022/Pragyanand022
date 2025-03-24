@@ -24,8 +24,8 @@
 
 ## 🎯 Competitive Programming
 
-- **CodeChef:** [Handle](https://www.codechef.com/users/pragyanand_022) | Max Rating: 1843
-- **Codeforces:** [Handle](https://codeforces.com/profile/Pragyanand) | Max Rating: 1445
+- **CodeChef:** [Handle](https://www.codechef.com/users/pragyanand_022) | Max Rating: 1845
+- **Codeforces:** [Handle](https://codeforces.com/profile/Pragyanand) | Max Rating: 1433
 
 ## 📫 Let's Connect
 

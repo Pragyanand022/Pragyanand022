@@ -1,6 +1,6 @@
 # Hi there, I'm Pragyanand Singh! 👋
 
-![Welcome Banner](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Welcome Banner](https://drive.google.com/uc?export=view&id=1IHjoZonZa8PacY8e8hfAzBmLN0fgUkmg)
 
 ## 🚀 About Me
 
@@ -16,11 +16,6 @@
 - **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Version Control & Deployment:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Pragyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragyanand022&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyanand022&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
 

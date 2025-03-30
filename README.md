@@ -19,8 +19,8 @@
 
 ## 🚀 Featured Projects
 
-- [**MyEstate**](https://github.com/Pragyanand022/MyEstate) – A full-stack real estate platform.
-- [**Invoice Manager**](https://github.com/Pragyanand022/invoice-manager) – Optimized with Redux state management.
+- [**MyEstate**](https://github.com/Pragyanand022/MyEstate) – A full-stack real estate platform to list and purchase your perfect house.
+- [**Family Travel Tracker**](https://github.com/Pragyanand022/family-travel-tracker) – A fullStack website to have fun making memories.
 
 ## 🎯 Competitive Programming
 

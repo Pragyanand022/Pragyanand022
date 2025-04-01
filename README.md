@@ -31,5 +31,5 @@
 
 - **Email:** [pragyanand022@gmail.com](mailto:pragyanand022@gmail.com)
 - **LinkedIn:** [Pragyanand Singh](https://www.linkedin.com/in/pragyanand022)
-- **Resume:** [MyResume](https://drive.google.com/drive/folders/154X01BfPdRhLwLBe2fqvfcgrIgsqYuPs)
+- **Resume:** [MyResume](https://drive.google.com/file/d/1JxgbD0t4vRRPvhyO5uaBRkQwpcbzCGQv/view?usp=sharing)
 - **Portfolio:** [MyPortfolio](https://pragyanand-portfolio.netlify.app/)
